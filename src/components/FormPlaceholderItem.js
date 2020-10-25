@@ -1,4 +1,6 @@
-const FormPlaceholderItem = ({content}) => {
+import React from 'react';
+
+const FormPlaceholderItem = () => {
   return (
     <div
       className="formPlaceholderItem"

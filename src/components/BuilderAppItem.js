@@ -1,3 +1,5 @@
+import React from 'react';
+
 import AppItem from './AppItem';
 
 const BuilderAppItem = ({
